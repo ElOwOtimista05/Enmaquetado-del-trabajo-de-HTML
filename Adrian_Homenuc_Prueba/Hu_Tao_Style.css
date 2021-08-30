@@ -1,0 +1,32 @@
+* {
+    font-family: 'Pangolin', cursive;
+}
+
+img {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 100%;
+}
+
+body {
+    margin: 80px;
+    padding: 20px;
+    
+    background-image: url("https://phantom-marca.unidadeditorial.es/af1f21f5561bd87533dea9350202b09c/resize/1320/f/jpg/assets/multimedia/imagenes/2020/10/01/16015653866882.png");
+}
+
+h2 {
+    text-align: center;
+    background-color: lightgray;
+    margin: 0%;
+}
+
+h3 {
+    background-color: lightgray;
+    margin: 0%;
+}
+
+div {
+   display: inline-block; 
+}
+
